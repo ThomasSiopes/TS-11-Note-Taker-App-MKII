@@ -1,4 +1,4 @@
-# TS-10-Note-Taker-App-MKII
+# TS-11-Note-Taker-App-MKII
 
 This project is a basic note taker app, designed to allow the user to input a note with a title and text, and save it to a note list.
 
